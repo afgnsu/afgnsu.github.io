@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Patrick's Octopress Blog]]></title>
+  <link href="http://afgnsu.github.io/atom.xml" rel="self"/>
+  <link href="http://afgnsu.github.io/"/>
+  <updated>2018-09-10T22:07:21+08:00</updated>
+  <id>http://afgnsu.github.io/</id>
+  <author>
+    <name><![CDATA[Patrick Su]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://afgnsu.github.io/blog/2018/09/10/title/"/>
+    <updated>2018-09-10T22:06:29+08:00</updated>
+    <id>http://afgnsu.github.io/blog/2018/09/10/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
