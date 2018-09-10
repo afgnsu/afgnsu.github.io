@@ -4,7 +4,7 @@
   <title><![CDATA[派脆克的部落格]]></title>
   <link href="http://afgnsu.github.io/atom.xml" rel="self"/>
   <link href="http://afgnsu.github.io/"/>
-  <updated>2018-09-10T23:24:19+08:00</updated>
+  <updated>2018-09-10T23:27:17+08:00</updated>
   <id>http://afgnsu.github.io/</id>
   <author>
     <name><![CDATA[Patrick Su (蘇介吾，0921-380-997)]]></name>
@@ -18,13 +18,11 @@
     <link href="http://afgnsu.github.io/blog/2018/09/10/title/"/>
     <updated>2018-09-10T22:27:19+08:00</updated>
     <id>http://afgnsu.github.io/blog/2018/09/10/title</id>
-    <content type="html"><![CDATA[<h1>第一篇發文</h1>
-
-<p>這是我重新開始寫 Markdown，希望能堅持下去 ^_^</p>
+    <content type="html"><![CDATA[<p>這是我重新開始寫 Markdown，希望能堅持下去 ^_^</p>
 
 <p>環境：Ruby 2.4.3、Rails 5.2.1、Ubuntu 16.04.5LTS、Vim 7.x</p>
 
-<h2>目前會的Gem：</h2>
+<h1>目前會的Gem：</h1>
 
 <ul>
 <li>bootstrap 4 (HTML框架)</li>
@@ -47,16 +45,15 @@
 </ul>
 
 
-<h2>RoR會的技能：</h2>
+<h1>RoR會的技能：</h1>
 
 <ul>
-<li>controller (CRUD、表單欄位驗證、Layout、before_action、CRSF跨站請求偽造)</li>
-<li>model (1對1、1對多、多對多、驗證、回呼、排序、自定方法)</li>
-<li>view (迴圈、迭代、render partial、表單[simple_form_for、bootstrap_form_for]、元件[input、select、checkbox、textarea])</li>
-<li>assets (SASS、jQuery)</li>
-<li>helper (自定輔助方法)</li>
-<li>routes (resources、root、nest、namespace、shallow、member、collection )</li>
-<li>scaffold、migration、destroy</li>
+<li>Controller (CRUD、表單欄位驗證、Layout、before_action、CRSF跨站請求偽造)</li>
+<li>Model (1對1、1對多、多對多、驗證、回呼、排序、自定方法)</li>
+<li>View (迴圈、迭代、render partial、表單[simple_form_for、bootstrap_form_for]、元件[input、select、checkbox、textarea])</li>
+<li>Assets (SASS、jQuery)</li>
+<li>Helper (自定輔助方法)</li>
+<li>Routes (resources、root、nest、namespace、shallow、member、collection )</li>
 <li>rails <em>5.2.1</em> new 專案 -d mysql</li>
 <li>rails g scaffold 名稱 欄位:屬性</li>
 <li>rake db:migrate / db:rollback / db:seed / db:setup</li>
