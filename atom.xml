@@ -4,7 +4,7 @@
   <title><![CDATA[派脆克的部落格]]></title>
   <link href="http://afgnsu.github.io/atom.xml" rel="self"/>
   <link href="http://afgnsu.github.io/"/>
-  <updated>2018-09-10T23:27:17+08:00</updated>
+  <updated>2018-09-10T23:30:54+08:00</updated>
   <id>http://afgnsu.github.io/</id>
   <author>
     <name><![CDATA[Patrick Su (蘇介吾，0921-380-997)]]></name>
@@ -32,7 +32,7 @@
 <li>devise (帳密驗證)</li>
 <li>cancancan (權限分級)</li>
 <li>carrierwave (上傳圖片)</li>
-<li>mini_magick (裁剪圖片)</li>
+<li>mini_magick (圖片處理)</li>
 <li>kaminari (分頁)</li>
 <li>jquery-rails (jQuery)</li>
 <li>fullcalendar-rails (月曆)</li>
@@ -42,6 +42,7 @@
 <li>better_errors (除錯用)</li>
 <li>ransack (欄位即時排序)</li>
 <li>passenger (網站佈署)</li>
+<li>bullet (檢查N+1)</li>
 </ul>
 
 
