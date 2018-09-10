@@ -4,7 +4,7 @@
   <title><![CDATA[Patrick's Octopress Blog]]></title>
   <link href="http://afgnsu.github.io/atom.xml" rel="self"/>
   <link href="http://afgnsu.github.io/"/>
-  <updated>2018-09-10T22:07:21+08:00</updated>
+  <updated>2018-09-10T23:18:43+08:00</updated>
   <id>http://afgnsu.github.io/</id>
   <author>
     <name><![CDATA[Patrick Su]]></name>
@@ -14,11 +14,55 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Title]]></title>
+    <title type="html"><![CDATA[第一篇發文]]></title>
     <link href="http://afgnsu.github.io/blog/2018/09/10/title/"/>
-    <updated>2018-09-10T22:06:29+08:00</updated>
+    <updated>2018-09-10T22:27:19+08:00</updated>
     <id>http://afgnsu.github.io/blog/2018/09/10/title</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>第一篇發文</h1>
+
+<p>這是我重新開始寫 Markdown，希望能堅持下去 ^_^</p>
+
+<p>環境：Ruby 2.4.3、Rails 5.2.1、Ubuntu 16.04.5LTS、Vim 7.x</p>
+
+<h2>目前會的Gem：</h2>
+
+<ul>
+<li>bootstrap 4 (HTML框架)</li>
+<li>font-awesome-rails (網頁向量字體)</li>
+<li>mysql2 (資料庫)</li>
+<li>bootstrap_form (Bootstrap表單)</li>
+<li>devise (帳密驗證)</li>
+<li>cancancan (權限分級)</li>
+<li>carrierwave (上傳圖片)</li>
+<li>mini_magick (裁剪圖片)</li>
+<li>kaminari (分頁)</li>
+<li>jquery-rails (jQuery)</li>
+<li>fullcalendar-rails (月曆)</li>
+<li>momentjs-rails (MomentJS)</li>
+<li>pry (很炫的Console)</li>
+<li>byebug (除錯用)</li>
+<li>better_errors (除錯用)</li>
+<li>ransack (欄位即時排序)</li>
+<li>passenger (網站佈署)</li>
+</ul>
+
+
+<h2>RoR會的技能：</h2>
+
+<ul>
+<li>controller (CRUD、表單欄位驗證、Layout、before_action、CRSF跨站請求偽造)</li>
+<li>model (1對1、1對多、多對多、驗證、回呼、排序、自定方法)</li>
+<li>view (迴圈、迭代、render partial、表單[simple_form_for、bootstrap_form_for]、元件[input、select、checkbox、textarea])</li>
+<li>assets (SASS、jQuery)</li>
+<li>helper (自定輔助方法)</li>
+<li>routes (resources、root、nest、namespace、shallow、member、collection )</li>
+<li>scaffold、migration、destroy</li>
+<li>rails <em>5.2.1</em> new 專案 -d mysql</li>
+<li>rails g scaffold 名稱 欄位:屬性</li>
+<li>rake db:migrate / db:rollback / db:seed / db:setup</li>
+<li>deploy with capistrano / passenger</li>
+</ul>
+
 ]]></content>
   </entry>
   
